@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProResume</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+<div>
+<nav class="nav">
+    <h1 class="name"><span class="pro">Pro</span><span class="resume">Resume</span></h1>
+    <div class="menu">
+        <a class="nav-id" href="{{ url_for('about') }}">About</a>
+        <a class="nav-id" href="{{ url_for('resume') }}">Resume</a>
+        <a class="nav-id" href="{{ url_for('blog') }}">Blog</a>
+        <a class="nav-id" href="{{ url_for('contact') }}">Contact Us</a>
+        <button class="login">Login</button>
+    </div>
+</nav>
+</div>
+<div class="description">
+    <h2>Your one-stop solution for creating professional and eye-catching resumes.</h2>
+    <button class="create-button">Create ProResume</button>
+</div>
+<div class="wave">
+    <img class="wave-id" src="static/images/waves.svg">
+</div>
+<div class="container">
+        <div class="box">
+            <h2>Customizable Templates</h2>
+            <p>ProResume provides a wide range of customizable resume templates. Users can choose from various professional designs and modify them to suit their personal style and career requirements.</p>
+        </div>
+        <div class="box">
+            <h2>Real-Time Editing</h2>
+            <p>Edit your resume in real-time with instant preview capabilities, ensuring that all changes are immediately visible and allowing for quick adjustments.</p>
+        </div>
+        <div class="box">
+            <h2>User-Friendly Interface</h2>
+            <p>The website offers a clean and intuitive interface that allows users to easily navigate through the different sections. The design is focused on simplicity and efficiency, ensuring that users can create their resumes without any hassle.</p>
+        </div>
+        <div class="box">
+            <h2>Professional Guidance</h2>
+            <p>Access expert tips and guidance on resume writing, including suggestions for content, structure, and best practices, to help you craft a compelling resume.</p>
+        </div>
+        <div class="box">
+            <h2>Responsive Design</h2>
+            <p>Enjoy a seamless experience on any device, with a responsive design that adapts to desktops, tablets, and smartphones.</p>
+        </div>
+        <div class="box">
+            <h2>Rich Text Formatting</h2>
+            <p>Utilize advanced text formatting options, including different fonts, colors, and styles, to make your resume stand out and look polished.</p>
+        </div>
+    </div>
+<div class="text">
+<h3>How to Select Professional Resume</h3>
+</div >
+<div class=" main">
+<ul class="checklist">
+        <li><span class="checkbox"></span>Choose a clean, simple layout without excessive graphics or colors.</li>
+        <li><span class="checkbox"></span>Ensure contact information is prominently displayed at the top.</li>
+        <li><span class="checkbox"></span>Include a clear, concise summary or objective statement.</li>
+        <li><span class="checkbox"></span>Organize sections logically: Experience, Education, Skills, etc.</li>
+        <li><span class="checkbox"></span>Use consistent, professional fonts and formatting.</li>
+        <li><span class="checkbox"></span>Quantify achievements with specific metrics and examples.</li>
+        <li><span class="checkbox"></span>Proofread thoroughly to avoid any typos or grammatical errors.</li>
+    </ul></div>
+<div class="writing-parent">
+    <div class="writing"></div>
+   <div class="about">
+       <h1> YASHIKA</h1>
+       <p class="para">As a DevOps engineer, I designed and developed a dynamic resume builder website to help users create professional resumes effortlessly. I utilized my skills in web development, automation, and continuous integration to ensure the site is user-friendly, scalable, and efficient. The project involved integrating various modern technologies and practices to deliver a seamless experience for users, showcasing my ability to bridge the gap between development and operations. </p>
+   </div>
+</div>
+<div class="information-parent">
+    <div class="information">
+        <h4> About Us</h4>
+        <p> Careers</p>
+        <p> Reviews</p>
+        <p>Mission</p>
+        <p> Vision</p>
+
+    </div>
+     <div class="vertical-line"></div>
+<div class="templates">
+    <h4>Resume</h4>
+    <p>Resume Examples</p>
+    <p>Resume Templates</p>
+    <p>Resume Skills</p>
+    <p>Resume Checker</p>
+</div>
+    <div class="vertical-line"></div>
+    <div class="blog">
+        <h4> Blog</h4>
+        <p>Advice</p>
+        <p>Trends</p>
+        <p> Tips</p>
+        <p>Insights</p>
+
+    </div>
+    <div class="vertical-line"></div>
+    <div class="help">
+        <h4>Help Center</h4>
+        <p>Help</p>
+        <p>Support</p>
+        <p>Tutorials</p>
+        <p>Guides</p>
+    </div>
+     <hr class="horizontal-line" style="width: 670%">
+    <div class="footer">
+    <div class="left"> <p>&copy; 2024. All rights reserved.</p></div>
+    <div class="center">
+        <a href="https://github.com/yashika7455"><img class="icon" src="{{ url_for('static', filename='images/github.jpeg') }}"></a>
+            <a href="mailto:yashikachopra64446@gmail.com"><img class="icon" src="{{ url_for('static', filename='images/email.jpg') }}"></a>
+            <a href="https://www.linkedin.com/in/yashika-chopra-548064265/"><img class="icon" src="{{ url_for('static', filename='images/linkedin.jpg') }}"></a>
+    </div>
+    <div class="right"><p>@ Made with love by people who care.</p></div>
+</div>
+
+</div>
+</body>
+</html>
+

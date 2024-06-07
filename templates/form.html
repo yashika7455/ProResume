@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='../static/css/form.css') }}">
+    <style>
+        @font-face {
+            font-family: 'Gotham';
+            src: url('../font/Gotham-Bold.otf') format('opentype');
+        }
+
+        body {
+            font-family: 'Gotham', Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .main {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: row;
+        }
+        .image-container img {
+            max-width: 600px;
+            height: 900px;
+            border-radius: 10px;
+            filter: blur(3px);
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 20px;
+            width: 600px;
+            box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .resume-form h2 {
+            color: #4CAF50;
+            margin-bottom: 20px;
+        }
+        .form-section {
+            margin-bottom: 20px;
+        }
+        .form-section h3 {
+            color: #000000;
+            margin-bottom: 10px;
+            text-align: left;
+        }
+        .form-group {
+            margin-bottom: 15px;
+            text-align: left;
+        }
+        .half-width {
+            width: 48%;
+            display: inline-block;
+        }
+        .left {
+            float: left;
+        }
+        .right {
+            float: right;
+        }
+        .form-group label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: #4CAF50;
+
+        }
+        .form-group input,
+        .form-group textarea {
+            width: 100%;
+            padding: 8px;
+            border-radius: 5px;
+        }
+        .form-group button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+        }
+        .form-group button:hover {
+            background-color: #45a049;
+        }
+        .error {
+            color: red;
+        }
+
+        .skills-oval {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .skills-oval .form-group {
+            width: calc(50% - 10px);
+            margin: 0;
+        }
+        .skills-oval .form-group input {
+            border-radius: 15px;
+            background-color: #4CAF50;
+        }
+
+        #skills-section-container{
+        width:100px;
+        }
+
+        #add-skill {
+            padding: 10px 20px;
+            border-radius: 15px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            margin-top: 70px;
+            width: 80px;
+        }
+        #add-skill:hover {
+            background-color: #45a049;
+        }
+        .submit-button-container {
+            display: flex;
+            justify-content: flex-end;
+            height: 20px;
+        }
+
+        .submit-button-container button{
+          background-color: #45a049;
+          color: white;   height: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="image-container">
+            <img src="{{ url_for('static', filename='images/tea.jpeg') }}" alt="Profile Image">
+        </div>
+        <div class="container">
+            <div class="resume-form">
+                <h2>Resume Form</h2>
+                <form action="/submit_resume" method="post" id="resume-form">
+                    <!-- Personal Details -->
+                    <div class="form-section">
+                        <h3>Personal Details</h3>
+                        <hr>
+                        <div class="form-group half-width left">
+                            <label for="name">Name</label>
+                            <input type="text" id="name" name="name" placeholder="Enter your name" required>
+                            <span class="error" id="name-error"></span>
+                        </div>
+                        <div class="form-group half-width right">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" placeholder="Enter your email" required>
+                            <span class="error" id="email-error"></span>
+                        </div>
+                        <div class="form-group half-width left">
+                            <label for="phone">Phone</label>
+                            <input type="tel" id="phone" name="phone" placeholder="Enter your phone number" required>
+                            <span class="error" id="phone-error"></span>
+                        </div>
+                        <div class="form-group half-width right">
+                            <label for="address">Address</label>
+                            <input type="text" id="address" name="address" placeholder="Enter your address" required>
+                            <span class="error" id="address-error"></span>
+                        </div>
+                        <div class="form-group half-width left">
+                            <label for="state">State</label>
+                            <input type="text" id="state" name="state" placeholder="Enter your state" required>
+                            <span class="error" id="state-error"></span>
+                        </div>
+                        <div class="form-group half-width right">
+                            <label for="country">Country</label>
+                            <input type="text" id="country" name="country" placeholder="Enter your country" required>
+                            <span class="error" id="country-error"></span>
+                        </div>
+                    </div>
+                    <hr>
+
+                    <!-- Education -->
+                    <div class="form-section">
+                        <h3 class="color">Education</h3>
+                        <hr>
+                        <div id="education-section-container">
+                            <div class="education-section">
+                                <div class="form-group half-width left">
+                                    <label for="higher_qualification">Higher Qualification</label>
+                                    <input type="text" name="higher_qualification" placeholder="Enter higher qualification" required>
+                                    <span class="error" id="higher_qualification-error"></span>
+                                </div>
+                                <div class="form-group half-width right">
+                                    <label for="higher_university">University Name</label>
+                                    <input type="text" name="higher_university" placeholder="Enter university name" required>
+                                    <span class="error" id="higher_university-error"></span>
+                                </div>
+                                <div class="form-group half-width left">
+                                    <label for="higher_stream">Stream</label>
+                                    <input type="text" name="higher_stream" placeholder="Enter stream" required>
+                                    <span class="error" id="higher_stream-error"></span>
+                                </div>
+                                <div class="form-group half-width right">
+                                    <label for="higher_percentage">Percentage</label>
+                                    <input type="text" name="higher_percentage" placeholder="Enter percentage">
+                                </div>
+                                <div class="form-group half-width right">
+                                    <label for="higher_year">Passing Year</label>
+                                    <input type="text" name="higher_year" placeholder="Enter passing year">
+                                </div>
+                                <div class="form-group half-width left">
+                                    <label for="higher_state">State</label>
+                                    <input type="text" name="higher_state" placeholder="Enter state" required>
+                                    <span class="error" id="higher_state-error"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+
+                    <!-- Skills -->
+                    <div class="form-section">
+                        <h3>Skills</h3><hr>
+                        <div class="skills-oval" id="skills-section-container">
+                            <div class="form-group">
+                                <input type="text" name="skills[]" placeholder="Enter a skill" required>
+                                <span class="error"></span>
+                            </div>
+                            <button type="button" id="add-skill">Add +</button>
+                        </div>
+                    </div>
+                    <hr>
+
+                    <!-- Submit Button -->
+                    <div class="submit-button-container">
+                        <button type="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('add-skill').addEventListener('click', function() {
+            const container = document.getElementById('skills-section-container');
+            const section = document.createElement('div');
+            section.className = 'form-group';
+            section.innerHTML = `
+                <input type="text" name="skills[]" placeholder="Enter a skill" required>
+                <span class="error"></span>
+            `;
+            container.insertBefore(section, document.getElementById('add-skill'));
+        });
+
+        document.getElementById('resume-form').addEventListener('submit', function(event) {
+            const requiredFields = document.querySelectorAll('input[required]');
+            let formValid = true;
+
+            requiredFields.forEach(function(field) {
+                if (!field.value.trim()) {
+                    formValid = false;
+                    const errorSpan = field.nextElementSibling;
+                    if (errorSpan) {
+                        errorSpan.textContent = 'This field is required';
+                    }
+                } else {
+                    const errorSpan = field.nextElementSibling;
+                    if (errorSpan) {
+                        errorSpan.textContent = '';
+                    }
+                }
+            });
+
+            if (!formValid) {
+                event.preventDefault();
+            }
+        });
+    </script>
+</body>
+</html>

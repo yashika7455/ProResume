@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width,
+                         initial-scale=1.0">
+    <title>LOGIN PAGE</title>
+   <link rel="stylesheet" href="{{ url_for('static', filename='css/login.css') }}">
+
+</head>
+
+<body>
+    <header>
+        <h1 class="heading">PRORESUME</h1>
+        <h3 class="title">Login & Registration Form</h3>
+    </header>
+    <!-- container div -->
+    <div class="container">
+
+        <!-- upper button section to select
+             the login or signup form -->
+        <div class="slider"></div>
+        <div class="btn">
+            <button class="login">Login</button>
+            <button class="signup">Signup</button>
+        </div>
+        <!-- Form section that contains the
+             login and the signup form -->
+        <div class="form-section">
+
+            <!-- login form -->
+            <div class="login-box">
+                <form action="/authorize_login" method="post" id="login-form">
+
+                <input type="email"
+                       class="email ele"
+                       name="email"
+                       placeholder="youremail@email.com">
+                <input type="password"
+                       name="password"
+                       class="password ele"
+                       placeholder="password">
+                <button class="clkbtn" type="submit">Login</button>
+                </form>
+            </div>
+
+
+            <!-- signup form -->
+            <div class="signup-box">
+                <form action="/authorize_signup" method="post" id="login-signup">
+
+                <input type="text"
+                       class="name ele"
+                       name="name"
+                       placeholder="Enter your name">
+                <input type="email"
+                       class="email ele"
+                       name="email"
+                       placeholder="youremail@email.com">
+                <input type="password"
+                       class="password ele"
+                       name="password"
+                       placeholder="password">
+                <input type="password"
+                       class="password ele"
+                       name="confirm_password"
+                       placeholder="Confirm password">
+                <button class="clkbtn" type="submit">Signup</button>
+                </form>
+            </div>
+        </div>
+        <div>
+            <hr/>
+
+            <h3 CLASS="hr">LOGIN WITH:</h3>
+            <div class="icongroup">
+                <a href="/logingoogle">
+                    <img class="google" src="{{ url_for('static', filename='images/google.png') }}">
+                </a>
+                <a href="/logingoogle">
+                    <img class="google" src="{{ url_for('static', filename='images/linkedin.png') }}">
+                </a>
+                <a href="/logingoogle">
+                    <img class="google" src="{{ url_for('static', filename='images/github.png') }}">
+                </a>
+            </div>
+        </div>
+
+        <script src="{{ url_for('static', filename='js/index.js') }}"></script>
+    </div>
+</form>
+</body>
+</html>

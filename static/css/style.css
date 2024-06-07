@@ -1,0 +1,420 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'anson';
+    src: url('../font/enigma.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('../font/Gotham-Bold.otf') format('opentype');
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between; /* Distributes space between items */
+    align-items: center; /* Aligns items vertically */
+    background-color: #2BAE66;
+    padding: 15px;
+    height: 30px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.nav-id {
+    position: relative; /* For positioning the ::after pseudo-element */
+    margin: 30px;
+    padding: 10px; /* Add px to padding */
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.nav-id:hover {
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: inherit; /* Inherit color from parent */
+}
+
+.pro {
+    color: black;
+    font-family: 'anson';
+}
+
+.resume {
+    color: #ffffff;
+    font-family: 'anson';
+}
+
+.name {
+    color: #000000;
+    font-size: 26px;
+    text-align: left;
+}
+
+.description {
+    text-align: center;
+    padding: 70px;
+    font-size: 18px;
+    margin-top: 12%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    animation: slide-in-center 1s ease-out forwards;
+    position: relative;
+    overflow: hidden; /* Ensure the animation starts from the fixed point */
+}
+
+@keyframes slide-in-center {
+    0% {
+        transform: translateY(100%) scale(0.5);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0) scale(1);
+        opacity: 1;
+    }
+}
+
+
+
+.create-button {
+    background-color: #2BAE66;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-top: 40px;
+    font-family: Gotham;
+}
+
+.create-button:hover {
+    background-color: #00A36C;
+}
+
+.menu {
+    display: flex; /* Makes .menu a flex container */
+    gap: 10px; /* Space between the nav links */
+}
+
+.nav-id::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px; /* Height of the horizontal line */
+    background-color: #ffffff; /* Color of the horizontal line */
+    transform: translateX(-100%); /* Start off-screen to the left */
+    transition: transform 0.3s ease-out; /* Smooth transition */
+}
+
+.nav-id:hover::after {
+    transform: translateX(0); /* Slide in from left to right */
+}
+
+.wave {
+    width: 100%;
+    height: 50%;
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.wave img {
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Create 3 columns */
+    gap: 20px; /* Space between the boxes */
+    background-color: #2BAE66;
+    margin-top: 22%;
+     padding: 100px 40px;
+}
+
+.box {
+    background-color: #ffffff; /* White background for boxes */
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 15px;
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.box h2 {
+    color: #2BAE66; /* Green color for headings */
+    margin-bottom: 10px;
+}
+
+.box p {
+    color: #000000; /* Black color for text */
+    text-align: justify; /* Justify the text inside the box */
+    padding: 15px;
+    line-height: 1.7;
+    flex-grow: 1; /* Allow the paragraph to grow and fill the available space */
+    margin: 0; /* Remove default margins */
+    overflow: hidden; /* Prevent overflow */
+}
+
+.text {
+    color: #2BAE66;
+    font-family: Gotham;
+    font-size: 28px;
+    margin: 40px;
+    text-align: center;
+}
+
+.main {
+    width: 45%; /* Set width to 45% of the parent */
+    padding: 40px; /* Add padding inside the main div */
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column; /* Flex column to stack content vertically */
+    align-items: center; /* Center content horizontally */
+    text-align: center;
+    margin: 20px auto; //* Add margin for spacing from the outside border */
+    box-sizing: border-box;
+}
+
+.checklist {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.checklist li {
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: justify;
+     display: inline-block;
+}
+.checklist:hover{
+font-size:21px;
+}
+.checkbox {
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    display: inline-block;
+    border-radius: 3px;
+    position: relative;
+    margin-right: 10px;
+
+}
+
+.checkbox::after {
+    content: '✓';
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.login{
+background-color: #ffffff;
+    color: green;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 30px;
+    font-family: Gotham;
+    height: 45px;
+    align-items: center;}
+
+.login:hover {
+    background-color: #2BAE66;
+    color: #ffffff;}
+
+.picture{
+width: 80%;
+}
+.writing{
+width: 40%;
+background-image: url("../images/blob-scene-haikei.svg")
+}
+
+.about{
+display:flex;
+flex-direction: column;
+text-align: justify; /* Justify the text inside the box */
+    padding: 60px 250px;
+    line-height: 1.7;
+    flex-grow: 1; /* Allow the paragraph to grow and fill the available space */
+    align-items: center;
+    width: 40%;
+    background-color:#FAF9F6;
+    font-size: 18px;
+    }
+.about p{
+margin-top:20px;}
+
+ .writing-parent{
+ display: flex;
+ flex-direction: row;}
+
+.information-parent{
+background-color: #353935;;
+width: 100%;
+height: 40vh;
+display: grid;
+grid-template-columns: repeat(7, 1fr); /* Create 3 columns */
+ gap: 10px; /* Space between the boxes */
+}
+.final-footer{
+background-color: #353935;;
+width: 100%;
+display: block;
+padding: 20px;
+}
+
+.information{
+color: #ffffff;
+text-align: center;
+margin-top: 80px;
+
+}
+
+.information h4{
+font-size: 18px;
+color:#2BAE66;
+}
+
+
+.information p{
+margin: 20px;
+line-height: 0.5;}
+
+
+.blog{
+color: #ffffff;
+text-align: center;
+margin-top: 80px;
+}
+.blog h4{
+font-size: 18px;
+color:#2BAE66;
+}
+.blog p{
+margin: 20px;
+line-height: 0.5;
+}
+.templates{
+color: #ffffff;
+text-align: center;
+margin-top: 80px;
+}
+.templates h4{
+font-size: 18px;
+color:#2BAE66;
+}
+.templates p{
+margin: 20px;
+line-height: 0.5;
+}
+
+.help{
+color: #ffffff;
+text-align: center;
+margin-top: 80px;
+}
+.help h4{
+font-size: 18px;
+color:#2BAE66;
+}
+.help p{
+margin: 20px;
+line-height: 0.5;
+}
+.vertical-line {
+            border-left: 2px solid #2BAE66;
+            height: 200px;
+            margin: 0 auto;
+            margin-top: 60px;
+}
+.horizontal-line {
+            background: #2BAE66;
+            margin-bottom: 2%;
+            height: 1px;
+            border: 0;
+            margin-left: 60px;
+}
+.footer{
+display: flex;
+    width: 490%;
+    padding: 10px;
+    flex-direction: row;
+    bottom:0;
+    align-items: center;
+}
+
+.left {
+    flex: 1;
+    text-align: left;
+    width: 100%;
+    family-font: Gotham;
+
+}
+
+.center {
+    flex: 1;
+    text-align: center;
+    width: 100px;
+}
+
+.right {
+    flex: 1;
+    text-align: right;
+
+}
+.right p{
+align-items : right;
+width: 100%;
+color: #2BAE66;
+font-family: Gotham;}
+
+.icon{
+height:40px;
+width: 40px;
+padding:4px;}
+
+.left p{
+color: #2BAE66;
+font-family: Gotham;}
+}

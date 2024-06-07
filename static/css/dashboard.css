@@ -1,0 +1,175 @@
+/* In your CSS file (dashboard.css) */
+@font-face {
+    font-family: 'anson';
+    src: url('../font/enigma.otf') format('opentype');
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100vh;
+}
+
+.dashboard {
+    display: flex;
+    width: 100%;
+    padding-left: 300px;
+}
+
+.profile-sidebar {
+    width: 280px;
+    background-color: #f7f7f7;
+    text-align: center;
+    height: 100%;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.1);
+    top: 0;
+    left: 0;
+    position: fixed;
+    overflow: hidden;
+}
+
+.profile-picture-container {
+    position: relative;
+    display: inline-block;
+    padding: 10px; /* Space between the image and the border */
+    border: 3px solid #2BAE66; /* Adjust the color and width of the border as needed */
+    border-radius: 50%; /* Makes the border circular */
+    margin: 30px;
+}
+
+.profile-picture {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profile-name {
+    font-size: 1.2em;
+    color: #2BAE66;
+}
+
+.complete-profile-button {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: white;
+    background-color: #2BAE66;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+    margin: 20px;
+}
+
+.complete-profile-button:hover {
+    background-color: #2BAE66;
+}
+
+.pro {
+    color: black;
+    font-family: 'anson';
+}
+
+.resume {
+    color: #2BAE66;
+    font-family: 'anson';
+}
+
+.name {
+    color: #000000;
+    font-size: 26px;
+    text-align: left;
+}
+
+.recent {
+    text-align: left;
+    margin-top: 50px;
+    border-radius: 40%;
+    width: 80px;
+    height: 10px;
+}
+
+.class-parent {
+    text-align: left;
+    margin-left: 0;
+}
+
+.description {
+    background-color: #2BAE66;
+}
+
+.email {
+    color: #2BAE66;
+}
+
+.templates-child {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.template-container {
+    position: relative;
+    margin: 60px;
+    width: 340px;
+    height: 510px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.template-card {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: filter 0.3s ease;
+    padding: 10px;
+}
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: blue;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.template-container:hover .template-card {
+    filter: blur(2px);
+}
+
+.template-container:hover .overlay {
+    opacity: 1;
+}
+.button {
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10px;
+    padding: 12px 18px;
+    border-radius: 30px;
+
+}
+.button-parent{
+width:100%;
+display:flex;
+justify-content:center;
+align-items:center;
+margin-top:20px;
+}
+.view-more {
+    background-color: #04AA6D; /* Green */
+}
+
+.view-more:hover {
+    background-color: #45a049;
+    color:black;
+}
+#view-more-button {
+    display: none;
+}

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard.css') }}">
+</head>
+<body>
+    <div class="dashboard">
+        <div class="profile-sidebar">
+            <div class="profile-picture-container">
+                <img class="profile-picture" src="{{ picture }}" alt="Profile Picture">
+            </div>
+            <h2 class="profile-name">{{ name }}</h2>
+            <p class="email"><strong>{{ email }}</strong></p>
+            <button class="complete-profile-button">Complete Profile</button>
+        </div>
+        <div>
+            <h1 class="name"><span class="pro">Pro</span><span class="resume">Resume</span></h1>
+            <div class="recent-parent">
+                <h2 class="recent">Recent</h2>
+            </div>
+            <div class="recent-description">
+                <p class="description"></p>
+            </div>
+            <h2 class="template">Templates</h2>
+            <div class="templates-child">
+
+            </div>
+            <div class="button-parent">
+            <div class="button-parent">
+                <button id="view-more-button" class="button view-more" onclick="fetchAndRenderTemplates()" style="display: none;">View More Templates</button></div>
+            </div>
+
+        </div>
+    </div>
+<!---->
+<script>
+    let currentOffset = 0;
+// Function to call the API and render the templates
+async function fetchAndRenderTemplates() {
+    try {
+        // Call the API
+        document.getElementById("view-more-button").style.display = "none";
+        const response = await fetch('/getTemplateList?skip='+currentOffset);
+
+        // Check if the response is OK (status code 200-299)
+        if (!response.ok) {
+            throw new Error('Network response was not ok ' + response.statusText);
+        }
+
+        // Parse the JSON response
+        const templateList = await response.json();
+
+        // Get the parent div where templates will be rendered
+        const templatesChildDiv = document.querySelector('.templates-child');
+
+        // Iterate over the template list and create HTML for each template
+        templateList.forEach(template => {
+            // Create a container div for the template
+            const templateContainer = document.createElement('div');
+            templateContainer.className = 'template-container';
+
+            // Create an img element for the template
+            const imgElement = document.createElement('img');
+            imgElement.className = 'template-card';
+            imgElement.src = `/static/template/${template}`;
+
+            // Create a div for the overlay
+            const overlayDiv = document.createElement('div');
+            overlayDiv.className = 'overlay';
+            overlayDiv.textContent = 'Use this template';
+
+            // Append img and overlay to the container
+            templateContainer.appendChild(imgElement);
+            templateContainer.appendChild(overlayDiv);
+
+            // Append the container to the parent div
+            templatesChildDiv.appendChild(templateContainer);
+        });
+        currentOffset += 9;
+            document.getElementById("view-more-button").style.display = "block";
+    } catch (error) {
+        // Handle any errors that occurred during the fetch
+        console.error('There was a problem with the fetch operation:', error);
+    }
+}
+
+// Call the function to fetch and render templates
+fetchAndRenderTemplates();
+</script>
+</body>
+</html>

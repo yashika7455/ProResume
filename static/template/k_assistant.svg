@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="612pt" height="792pt" viewBox="0 0 612 792">
+<g enable-background="new">
+<g>
+<g id="Layer-1" data-name="Artifact">
+<clipPath id="cp0">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 0 .000061035 L 612 .000061035 L 612 792.00009 L 0 792.00009 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 0 -.099976 L 612.1 -.099976 L 612.1 792 L 0 792 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 30.6 712.18 L 581.63998 712.18 L 581.63998 759.964 L 30.6 759.964 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp1">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp1)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="39" font-family="CenturyGothic"><tspan y="-720.72" x="155.9 174.815 192.83301 226.724 249.812">FLOYD</tspan></text>
+</g>
+<clipPath id="cp2">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp2)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="39" font-family="CenturyGothic"><tspan y="-720.72" x="278.93"> </tspan></text>
+</g>
+<clipPath id="cp3">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp3)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="39" font-family="CenturyGothic"><tspan y="-720.72" x="289.73 318.59004 336.60804 363.98603 392.846 416.519 437.423">ALVAREZ</tspan></text>
+</g>
+<clipPath id="cp4">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp4)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="39" font-family="CenturyGothic"><tspan y="-720.72" x="456.22"> </tspan></text>
+</g>
+<clipPath id="cp5">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp5)">
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 30.6 699.82 L 581.63998 699.82 L 581.63998 712.18 L 30.6 712.18 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp6">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp6)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-701.98" x="147.26 153.734 158.5148 165.36728 174.70977 181.56224 183.59409 190.06809 198.7034 205.1774 209.98809 216.82064 226.16312 233.0156 235.04744 241.52144 244.28037 250.75437 257.23835 266.5808 269.4692 276.16233 278.92124 282.65623 288.17408 293.69194 299.20979 302.92485 305.68376 311.2016 316.71946">example@example.com | (555) 555</tspan></text>
+</g>
+<clipPath id="cp7">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp7)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-701.98" x="322.39">-</tspan></text>
+</g>
+<clipPath id="cp8">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp8)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-701.98" x="325.75 331.26786 336.7857 342.30357 347.8214 350.58033 357.3033 360.17179 366.1677 368.19953 375.02214 381.74516 388.33866 396.61543 403.0994 409.58338 416.53547 419.29438 422.05329 429.37388 434.28416 437.04307 442.5609 448.07878 453.59663 459.11448">5555 | Ridgewood, NJ 07450</tspan></text>
+</g>
+<clipPath id="cp9">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp9)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-701.98" x="464.86"> </tspan></text>
+</g>
+<clipPath id="cp10">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp10)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-701.98" x="467.74"> </tspan></text>
+</g>
+<clipPath id="cp11">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp11)">
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 659.02 L 580.07998 659.02 L 580.07998 674.86007 L 32.04 674.86007 Z " fill="#92ded4" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp12">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 659.02 L 580.07998 659.02 L 580.07998 674.86007 L 32.04 674.86007 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp12)">
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 659.02 L 580.07998 659.02 L 580.07998 674.86007 L 32.04 674.86007 Z " fill="#92ded4" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp13">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 659.02 L 580.07998 659.02 L 580.07998 674.86007 L 32.04 674.86007 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp13)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12.96" font-family="CenturyGothic" font-weight="bold"><tspan y="-661.9" x="42 49.78896 57.8112 69.20304 75.91632 83.109119 90.41855 97.61134 101.680789 113.18926 123.259189 133.3291 139.5499 143.73598 150.92877 159.79341 171.89806 184.11934 194.18926 202.2115">PROFESSIONAL SUMMARY</tspan></text>
+</g>
+<clipPath id="cp14">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 659.02 L 580.07998 659.02 L 580.07998 674.86007 L 32.04 674.86007 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp14)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-661.9" x="211.13"> </tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 40.56 636.7 L 571.54 636.7 L 571.54 649.06 L 40.56 649.06 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp15">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp15)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-638.86" x="42 49.41024 52.42812 54.45996 59.977804 66.451808 72.567249 75.326168 82.15872 88.2642 95.0868 97.84572 100.84368 107.31768 111.18216 117.77568 123.7716 126.76956 133.24356 139.71756 142.95456 148.95049 150.98233 153.74126 159.12963 163.91043 170.38443 176.87836 182.87429 186.25072 188.26264 193.78047 200.25447 203.13292 210.45352 214.31801 218.13269 220.16454 224.11867 227.4951 234.29778 240.43314 243.80957 246.5685 254.84526 256.86714 260.24357 266.31916 269.07807 278.5799 285.17344 288.1714 294.6454 297.4043 300.78074 306.8862 313.71876 319.82423 322.58314 326.4476 328.4396 333.25028 336.0092 341.39756 347.87156 354.7041 357.70207 361.56654 364.32545 370.7795 373.90696 376.76548 383.23948 388.02027 394.87275 401.34675 404.3447 406.3865 412.8605 418.97593 425.44993 431.92393 434.68284 441.51539 445.37986 449.19453 451.22636 455.09083 458.42744 460.45927 466.56474 473.26783 476.02674 484.3035 486.35527 489.7317 495.80729 498.5662 501.94264 508.06803 514.54208 517.30099 525.6972 532.18118 535.17916 540.209 542.9679 549.45187 552.5793">Driven and resourceful Executive Assistant with more than six years of experience assisting with the work of </tspan></text>
+</g>
+<clipPath id="cp16">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp16)">
+</g>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 40.56 624.46 L 571.54 624.46 L 571.54 636.7 L 40.56 636.7 Z " fill="#ffffff" fill-rule="evenodd"/>
+<clipPath id="cp17">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp17)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-626.62" x="42 48.10548 50.13732 56.8404">high</tspan></text>
+</g>
+<clipPath id="cp18">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp18)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-626.62" x="63.024">-</tspan></text>
+</g>
+<clipPath id="cp19">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp19)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-626.62" x="66.384 73.21656 79.69056 85.68648 87.718318 94.192317 99.71015 101.751949 107.85742 114.5605 117.31942 123.79342 128.6041 135.0781 141.5521 147.54802 150.92446 152.93637 158.45421 164.9282 168.7927 171.55162 174.31055 178.49376 181.49172 188.32427 194.79827 199.82807 202.58699 205.58495 212.05895 218.66243 225.1464 228.14435 234.96695">achieving executives. Track record </tspan></text>
+</g>
+<clipPath id="cp20">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp20)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-626.62" x="237.89 241.84413 247.84006 254.67263 261.50517 267.98915 271.09666 274.47309 276.48503 282.59049 289.29359 292.0525 298.90498 301.90293 308.3869 311.51435 317.98835 321.8528 325.66749 327.81886 334.30284 340.4083 347.24085 349.27268 352.0316 358.147 364.621 371.095 377.9176 381.78208 384.541 392.81776 394.85957 398.32563 404.4311 407.19 415.46678 421.94078 423.98258">supporting professional needs with well</tspan></text>
+</g>
+<clipPath id="cp21">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp21)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-626.62" x="426.19">-</tspan></text>
+</g>
+<clipPath id="cp22">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp22)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-626.62" x="429.55 436.03398 439.03193 445.73503 452.5875 458.69297 460.7248 464.92793 471.40193 478.22453 480.98344 487.8359 490.83387 497.30787 503.78187 505.8137 509.67817 511.67018 518.2836 524.38919 527.1481">organized precision. </tspan></text>
+</g>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 40.56 612.1 L 571.54 612.1 L 571.54 624.45999 L 40.56 624.45999 Z " fill="#ffffff" fill-rule="evenodd"/>
+<clipPath id="cp23">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp23)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-614.26" x="42 46.92024 52.916158 59.390157 65.86415 72.45767 76.32215 80.13683 83.36388 89.359798 91.39163 93.42347 98.81183 101.57075 110.91323 117.76571 123.871189 130.70374 137.40682 143.88082 147.7453 150.50423 156.60971 158.64156 165.34464">Successfully manages high</tspan></text>
+</g>
+<clipPath id="cp24">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp24)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-614.26" x="171.62">-</tspan></text>
+</g>
+<clipPath id="cp25">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp25)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-614.26" x="174.98 180.49784 186.9818 189.01364 195.00957 204.35205 210.82605 213.58498 222.00118 228.48514 231.4831 236.5129 238.54474 245.0287 251.86125 258.68385 262.64793 265.40684 267.43867 273.54414 276.30305 279.301 286.13356 292.9661 294.99794 301.82054 303.87229 309.26066 312.01957 318.49357 324.59904 331.32203 337.4275 344.13059 346.18235 352.2878 358.9909 361.74983 368.22383 374.35917 379.877 381.90885 384.9068 391.39079 397.49626 406.8387 413.3127 419.44807 422.8245 426.64915">volume workloads in rapidly changing environments.</tspan></text>
+</g>
+<clipPath id="cp26">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp26)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-614.26" x="429.79"> </tspan></text>
+</g>
+<clipPath id="cp27">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp27)">
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 571.3 L 580.07998 571.3 L 580.07998 587.14 L 32.04 587.14 Z " fill="#92ded4" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp28">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 571.3 L 580.07998 571.3 L 580.07998 587.14 L 32.04 587.14 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp28)">
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 571.3 L 580.07998 571.3 L 580.07998 587.14 L 32.04 587.14 Z " fill="#92ded4" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp29">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 571.3 L 580.07998 571.3 L 580.07998 587.14 L 32.04 587.14 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp29)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12.96" font-family="CenturyGothic" font-weight="bold"><tspan y="-574.18" x="42 54.10464 65.49648 73.51872 82.150089 86.33617 95.56368 99.74976 106.942569 112.813449 124.205287 132.35713">WORK HISTORY</tspan></text>
+</g>
+<clipPath id="cp30">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 571.3 L 580.07998 571.3 L 580.07998 587.14 L 32.04 587.14 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp30)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-574.18" x="141.14"> </tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+</g>
+<clipPath id="cp31">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp31)">
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp32">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp32)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-551.14" x="42 51.12336 57.95592 60.95388 63.7128 69.23064 74.748477 80.26631">Mar 2019</tspan></text>
+</g>
+<clipPath id="cp33">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp33)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-551.14" x="85.824"> </tspan></text>
+</g>
+<clipPath id="cp34">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp34)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-551.14" x="88.584">-</tspan></text>
+</g>
+<clipPath id="cp35">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp35)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-551.14" x="91.944"> </tspan></text>
+</g>
+<clipPath id="cp36">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp36)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-551.14" x="94.704 102.9708 108.96672 111.96468 114.96265 121.436649 127.552089">Current</tspan></text>
+</g>
+<clipPath id="cp37">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp37)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-551.14" x="131.06"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp38">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp38)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic" font-weight="bold"><tspan y="-538.87" x="42 47.1792 52.78668 59.16108 65.53548 71.511478 74.49947 76.88988 82.53719 88.91159 91.77011 99.09071 103.52291 107.95511 110.34551 114.787677 117.77567 124.37915 130.35515 133.37303 136.16184 139.14984 145.49437 148.28318 151.27118 157.24718 163.72118 166.50998 174.27878 179.45798">Executive Assistant to the CEO</tspan></text>
+</g>
+<clipPath id="cp39">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp39)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-538.87" x="188.06"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp40">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp40)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-526.63" x="42 46.56168 48.59352 51.720964 58.19496 63.1152 70.06728 76.0632 82.89576 85.89372 92.36772 95.12664 103.28388 109.767848 115.87332 121.9788 128.4528 134.9268 138.30324">LifeSquare Connect </tspan></text>
+</g>
+<clipPath id="cp41">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp41)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-526.63" x="141.14">-</tspan></text>
+</g>
+<clipPath id="cp42">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp42)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-526.63" x="144.5"> </tspan></text>
+</g>
+<clipPath id="cp43">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp43)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-526.63" x="147.26 153.2559 155.28775 162.23984 168.94292 175.41692 183.69368 190.30713 196.79109 203.6137 206.37262">Ridgewood, </tspan></text>
+</g>
+<clipPath id="cp44">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp44)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-514.39" x="42 49.32">NJ</tspan></text>
+</g>
+<clipPath id="cp45">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp45)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-514.39" x="54.12"> </tspan></text>
+</g>
+<clipPath id="cp46">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 475.39 L 217.01001 475.39 L 217.01001 561.214 L 32.04 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp46)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-514.39" x="57"> </tspan></text>
+</g>
+</g>
+</g>
+<clipPath id="cp47">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp47)">
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp48">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp48)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-551.14" x="227.45">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp49">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp49)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-551.14" x="232.01"> </tspan></text>
+</g>
+<clipPath id="cp50">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp50)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-551.14" x="242.09 250.23728 256.72126 262.82673 266.20317 269.2011 271.21305 278.0456 284.04154 287.41798 293.89198 296.65089 300.107 306.59098 309.34989 313.304 322.64646 329.24995 335.73393 339.11036 345.18595 347.94486 354.8073 360.9128 364.77729 366.7693 372.90464 379.37864 383.2431 387.06776 389.82667 396.31065 403.1432 409.6172 412.61515 419.57719 422.9536 424.96556 431.44953 437.555 441.41947 444.17839 450.9711 456.38935 459.14826 465.9808 468.01264 474.84519 480.95066 487.05613 489.08796 495.19343 501.8965 504.65544 511.5079 517.6134 524.436">Contribute to smooth business operations by planning and </tspan></text>
+</g>
+<clipPath id="cp51">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp51)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-538.87" x="242.09 248.57396 251.57192 258.275 265.12748 271.23295 273.26478 277.4679 279.49974 285.6052 292.3083 295.0672 304.43955 310.91355 317.38755 320.76399 322.78587 328.89134 335.59443 339.4589 342.2178 349.0404 355.14588 362.09797 364.85688 371.33088 377.81486 383.92033 387.04777 393.52177 396.5197 402.9937 409.10914 415.58314 422.05714 425.9216 428.6805 431.43943 433.45137 439.55683 446.03083 448.06266 454.0586 460.8812 462.93296 469.03843 475.74153 478.6299 485.1039 491.5879 497.69337 500.8208 507.2948 510.29277 516.7668 522.88229 529.35629 535.83029">organizing meetings and conferences, including conference </tspan></text>
+</g>
+<clipPath id="cp52">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp52)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-526.63" x="242.09 248.564 255.39655 257.42839 259.4602 263.32469">calls.</tspan></text>
+</g>
+<clipPath id="cp53">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp53)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-526.63" x="266.09"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp54">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp54)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-514.39" x="227.45">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp55">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp55)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-514.39" x="232.01"> </tspan></text>
+</g>
+<clipPath id="cp56">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp56)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-514.39" x="242.09 247.98632 250.98427 257.4483 264.4004 270.39634 276.87034 283.34434 286.10325 292.9358 299.4098 305.8838 311.87974 314.8777 321.82978 325.2062 331.6802 334.43913 341.02268 344.15013 347.27757 349.2895 355.7635 362.2375 364.9964 368.12385 370.15568 372.1875 378.6615 382.52598 385.28489 388.0438 394.02976 400.8623 407.6849 414.5274 417.90385 424.37785 427.23637 431.10084 437.89356 440.8915 447.38545 454.218 461.0406 464.90507 471.01054 477.48454 484.07804 487.45448 491.2791 494.03804 496.79695 503.6295 509.73497 516.55758 519.31649 525.8004 528.7984 535.631 538.7584 542.1349">Produce accurate office files, update spreadsheets, and craft </tspan></text>
+</g>
+<clipPath id="cp57">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp57)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-502.03" x="242.09 248.92256 251.92052 258.39454 262.259 268.733 274.82853 278.20497 285.00764 288.38407 290.4159 296.89988 303.00535 306.8698 309.71836 313.0948 319.55885 322.4273 326.29179 332.2678 339.10035 345.9329 352.52644 355.52439 358.90083 361.75935 368.24333 374.3488 380.82279 383.5817 391.73893 397.1273 405.78254 408.54145 415.34413 421.47947 428.30207 431.06098 437.91346 444.39744 450.99098 454.85545 458.19206 460.95097 464.427 470.901 477.73356 487.07603 489.83494 496.6874 499.68537 506.16935 512.99197 519.00778 525.60128 528.9777 530.9896 536.50747 538.5393 541.9158 547.2942">presentations to support one CEO and boost team productivity.</tspan></text>
+</g>
+<clipPath id="cp58">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp58)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-502.03" x="550.3"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp59">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp59)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-489.79" x="227.45">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp60">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp60)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-489.79" x="232.01"> </tspan></text>
+</g>
+<clipPath id="cp61">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp61)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-489.79" x="242.09 249.4106 252.40856 255.40651 262.23908 268.34455 275.04765 281.52165 284.28056 291.13304">Arrange an</tspan></text>
+</g>
+<clipPath id="cp62">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp62)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-489.79" x="297.29 304.1126 306.87153 312.99693 319.82948 325.93495 332.75755 334.8093 341.2833 344.0422 350.87477 352.9066 354.93843 357.69734 359.6196 366.10359 372.80668 374.85844 378.7229 382.0595 384.09135 390.56535 394.4298 397.18873 400.39585 406.87983 409.87779 412.6367 422.10865 428.59263 434.6981 438.07453 444.15013 446.21186 451.60023 454.35914 460.10606 466.59004 473.42259 476.42054 483.24314 486.00205 495.3744 501.8484 508.3224 511.69883 513.7207 519.82626 526.5293 530.3938 533.1527 539.9753 546.0808 552.9034">d handle all logistics for monthly Board meetings and </tspan></text>
+</g>
+<clipPath id="cp63">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp63)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-477.55" x="242.09 248.564 254.08184 260.55586 266.68125 270.05769 273.88233 276.64125 279.40016 283.35426 289.3502 295.8242 301.92967 304.68858 311.52113 315.3856 318.23414 322.0986 328.54273 334.66813 341.14213 347.96473 353.99055 356.02238 362.61589 365.3748 374.71726 381.19126 387.68519 391.0616 393.07356 399.17903 405.8821 409.74659 412.5055 419.3281 425.43357 432.25617 435.01509 441.86756 444.8655 451.69807 454.8255 458.20195 460.96086 467.76353 474.48655 481.08006 487.18553 494.00813 500.85063 504.7151">events, such as schedule meetings and draft agendas.</tspan></text>
+</g>
+<clipPath id="cp64">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 475.39 L 580.08 475.39 L 580.08 561.214 L 217.01 561.214 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp64)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-477.55" x="507.7"> </tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 580.08 475.39 L 580.2 475.39 L 580.2 571.294 L 580.08 571.294 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp65">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp65)">
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp66">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp66)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-455.35" x="42 46.80072 53.63328 59.73876 62.49768 68.01552 73.533359 79.05119">Jan 2016</tspan></text>
+</g>
+<clipPath id="cp67">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp67)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-455.35" x="84.624"> </tspan></text>
+</g>
+<clipPath id="cp68">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp68)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-455.35" x="87.384">-</tspan></text>
+</g>
+<clipPath id="cp69">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp69)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-455.35" x="90.744"> </tspan></text>
+</g>
+<clipPath id="cp70">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp70)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-455.35" x="93.504 102.627368 109.45992 112.457889 115.216808 120.854167 126.372 131.88985">Mar 2019</tspan></text>
+</g>
+<clipPath id="cp71">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp71)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-455.35" x="137.54"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp72">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp72)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic" font-weight="bold"><tspan y="-442.99" x="42 49.3206 55.8942 65.2566 67.66692 73.64292 76.053249 80.48544 83.47344 86.720409 93.29401 96.31188 98.702289 104.339649 110.71404 113.463008 120.78361 125.215808 129.64801 132.0384 136.48056 139.46857 146.07204 152.04804">Administrative Assistant</tspan></text>
+</g>
+<clipPath id="cp73">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp73)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-442.99" x="155.18"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp74">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp74)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-430.75" x="42 51.12336 57.95592 64.42992 69.45972 72.218639 79.758358 82.51727 89.88767 93.81191 97.67639 104.13048 110.60448 112.636318 119.46887 122.845317 129.41892 133.2834">Mack &#x0026; Associates </tspan></text>
+</g>
+<clipPath id="cp75">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp75)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-430.75" x="136.1">-</tspan></text>
+</g>
+<clipPath id="cp76">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp76)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-430.75" x="139.46"> </tspan></text>
+</g>
+<clipPath id="cp77">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp77)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-430.75" x="142.22 148.21591 150.24776 157.07036 163.91287 170.38687 178.66364 185.26712 191.75109 198.57369 201.33261 204.09154 211.54163">Ridgewood, NJ</tspan></text>
+</g>
+<clipPath id="cp78">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp78)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-430.75" x="216.41"> </tspan></text>
+</g>
+<clipPath id="cp79">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 367.25 L 217.01001 367.25 L 217.01001 465.434 L 32.04 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp79)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-430.75" x="219.29"> </tspan></text>
+</g>
+</g>
+</g>
+<clipPath id="cp80">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp80)">
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp81">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp81)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-455.35" x="227.45">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp82">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp82)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-455.35" x="232.01"> </tspan></text>
+</g>
+<clipPath id="cp83">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp83)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-455.35" x="242.09 250.23728 256.72126 263.20524 266.2032 273.0258 275.07756 281.183 288.01557 291.392 297.866 304.6886 307.4475 310.82395 313.8219 320.6445 326.2719 332.7459 334.77775 337.53666 344.3692 347.36717 350.3651 357.19767 363.30314 370.00624 376.48023 385.85258 392.32658 398.442 401.81843 405.64308 408.40199 415.23454 420.6229 423.3818 430.21437 436.8079 443.29188 448.32167 450.3535 456.45896 463.16206 465.92097 472.77345 474.80528 477.80323 480.93067 487.75328 490.75123 497.22523 499.98414 502.74305 508.85847 515.3424 518.7189 525.1929 527.2148 529.9737 532.7326 539.5652 545.6707 552.4933">Coordinated travel arrangements by booking airfare, hotel, and </tspan></text>
+</g>
+<clipPath id="cp84">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp84)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-442.99" x="242.09 248.57396 255.40653 261.88053">Uber</tspan></text>
+</g>
+<clipPath id="cp85">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp85)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-442.99" x="264.89"> </tspan></text>
+</g>
+<clipPath id="cp86">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp86)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-442.99" x="267.65 271.02644 274.02439 280.82707 286.9624 290.82688 297.74909 304.23307 307.23103 310.60746 317.41014 320.78657 322.8184 329.30238 335.40785">transportation.</tspan></text>
+</g>
+<clipPath id="cp87">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp87)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-442.99" x="338.35"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp88">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp88)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-430.75" x="227.45">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp89">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp89)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-430.75" x="232.01"> </tspan></text>
+</g>
+<clipPath id="cp90">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp90)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-430.75" x="242.09 247.98632 250.98427 257.4483 263.9223 270.3963 274.3504 278.21488 284.68888 291.51148 294.37995 300.86393 306.38179 312.85578 315.85374 318.61265 324.25 329.76786 335.2857 338.04463 340.07646 346.18193 351.69978 358.18376 360.3351 366.8091 373.2831 377.14759 379.9065 386.70918 392.83457 399.65718 402.41609 408.89009 413.70075 420.5333 427.0073 433.1227 436.98719 443.46119 447.28584 450.1543 456.6283 463.46086 469.93486 476.0403 478.79924 488.1417 494.6655 500.7411 504.11753 510.23295 512.9919 515.7508 521.8662 525.7307 527.7227 533.8581 540.56118">Processed over 100 invoices and expenses each month, using </tspan></text>
+</g>
+<clipPath id="cp91">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp91)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-418.51" x="242.09 250.72531 256.72126 258.75309 265.22709 270.25688 276.00379 282.59733 289.0813 294.11109 297.97557 300.73448 304.18064 310.6646 313.42353 316.55097 323.37358 329.84757 331.8794 333.91123 335.94306 339.3195 346.12217 349.4986 355.9726 358.851 365.335">QuickBooks to facilitate on</tspan></text>
+</g>
+<clipPath id="cp92">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp92)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-418.51" x="371.59">-</tspan></text>
+</g>
+<clipPath id="cp93">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp93)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-418.51" x="374.95 378.32646 380.33839 389.68086 396.15486 398.91377 405.76625 412.5988 417.98716 427.32963 433.80363 439.93898 443.3154">time payment.</tspan></text>
+</g>
+<clipPath id="cp94">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp94)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-418.51" x="446.11"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp95">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp95)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-406.27" x="227.45">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp96">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp96)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-406.27" x="232.01"> </tspan></text>
+</g>
+<clipPath id="cp97">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp97)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-406.27" x="242.09 247.47837 253.58385 257.44834 263.42436 266.4223 272.8963 279.7189 282.4778 288.97175 295.92384 301.91978 303.9516 310.78416 320.12663 326.60063 332.73597 336.1124 338.8713 345.33537 352.1679 358.6419 361.75938 368.59193 371.96836 373.9803 380.46427 386.56974 389.32865 396.1612 401.54957 404.30848 410.78248 417.26646 426.60893 433.4614 435.49324 441.96723 445.34367 447.36555 453.471 460.1741 462.933 469.7855 472.78346 479.25746 485.73146 492.564 498.55995 501.93638 503.9483 510.43229 516.5378 523.37039 526.36837 531.7567">Ensured equipment operation by completing precautionary </tspan></text>
+</g>
+<clipPath id="cp98">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp98)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-394.03" x="242.09 251.43248 258.28498 260.3168 266.42228 269.7987 276.2727 282.36824 289.20079 295.30625 301.78025 308.25425 311.01316 314.0111 320.4851 327.32765 333.32359 335.3554 338.35337 344.82737 354.16984 360.78327 366.88874 370.26518 374.0898 376.84873 378.88056 380.91239 385.94218 392.41618 395.17509 401.64909 408.48164 410.51347 412.5453 414.57713 420.6826 427.38569 430.1446 433.27204 439.76597 442.76393 445.52284 448.52079 454.99479 461.8373 468.66987 470.7017 473.69966 477.56413 480.32304 483.08195 492.4244 499.247 501.27885 507.3843 510.76075 517.5634 519.6152 525.7207 527.75259 533.8581 540.56118">maintenance requirements like calling for repairs, maintaining </tspan></text>
+</g>
+<clipPath id="cp99">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp99)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-381.79" x="242.09 248.564 255.39656 261.3925 263.42433 270.25688 279.59934 286.07334 292.20869 295.5851 298.34403 300.35597 306.46144 311.97929 318.45329 324.5687 327.94514 334.40919 337.40715">equipment inventori</tspan></text>
+</g>
+<clipPath id="cp100">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp100)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-381.79" x="339.55 346.024 349.9781 352.737 355.4959 362.448 368.55348 375.37608 378.13499 384.60899 390.12684 396.9793 399.01115 405.00709 411.83964 415.21607 417.228 423.33348 430.03657 432.79548 438.92088 445.39488 453.67164 456.43055 462.90455 469.74708 475.743 477.77485 484.72694 494.0694 500.5434 506.67875 510.05519 512.8141 519.61679 525.75216 532.5747">es, and evaluating new equipment and </tspan></text>
+</g>
+<clipPath id="cp101">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp101)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-369.41" x="242.09 245.46643 251.94043 258.38456 264.5199 270.62538 272.6572 279.48976 285.4857 291.9597 295.82417">techniques.</tspan></text>
+</g>
+<clipPath id="cp102">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 367.25 L 580.08 367.25 L 580.08 465.434 L 217.01 465.434 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp102)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-369.41" x="298.73"> </tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 580.08 367.25 L 580.2 367.25 L 580.2 475.39 L 580.08 475.39 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp103">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp103)">
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp104">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp104)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-347.21" x="42 46.80072 53.63328 59.73876 62.49768 68.01552 73.533359 79.05119">Jan 2015</tspan></text>
+</g>
+<clipPath id="cp105">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp105)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-347.21" x="84.624"> </tspan></text>
+</g>
+<clipPath id="cp106">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp106)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-347.21" x="87.384">-</tspan></text>
+</g>
+<clipPath id="cp107">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp107)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-347.21" x="90.744"> </tspan></text>
+</g>
+<clipPath id="cp108">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp108)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-347.21" x="93.504 98.30472 105.137279 111.24275 114.00167 119.51951 125.037349 130.55519">Jan 2016</tspan></text>
+</g>
+<clipPath id="cp109">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp109)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-347.21" x="136.22"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp110">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp110)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic" font-weight="bold"><tspan y="-334.97" x="42 50.386323 53.17512 55.90416 58.29456 64.66896 71.132999 73.9218 81.21252 85.644718 90.07691 92.467319 96.90948 99.89748 106.50095 112.47695 115.49483 118.28363 121.01267 126.98867 130.00655 136.38095 139.59803">Office Assistant Intern</tspan></text>
+</g>
+<clipPath id="cp111">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp111)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-334.97" x="145.82"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp112">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp112)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-322.73" x="42 46.20312 52.68708 62.02956 68.88204 71.880008 78.71256 82.57704 85.4256 94.06092 97.16844 103.652408 109.64832 116.48088">Tombras Group </tspan></text>
+</g>
+<clipPath id="cp113">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp113)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-322.73" x="119.3">-</tspan></text>
+</g>
+<clipPath id="cp114">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp114)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-322.73" x="122.66"> </tspan></text>
+</g>
+<clipPath id="cp115">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp115)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-322.73" x="125.54 131.53592 133.56777 140.39037 147.11336 153.58736 161.98365 168.4676 174.95157 181.77417 184.5331 187.42151 194.74211">Ridgewood, NJ</tspan></text>
+</g>
+<clipPath id="cp116">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp116)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-322.73" x="199.61"> </tspan></text>
+</g>
+<clipPath id="cp117">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 271.49 L 217.01001 271.49 L 217.01001 357.28999 L 32.04 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp117)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-322.73" x="202.49"> </tspan></text>
+</g>
+</g>
+</g>
+<clipPath id="cp118">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp118)">
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp119">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp119)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-347.21" x="227.45">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp120">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp120)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-347.21" x="232.01"> </tspan></text>
+</g>
+<clipPath id="cp121">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp121)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-347.21" x="242.09 247.01024 253.00617 259.8387 266.67127 273.2648 276.26277 279.6392 286.1132 292.9358 295.6947 299.17076 307.4475 313.9315 316.79997 321.7202 328.1942 334.6682 337.66618 344.14018 347.5166 354.31929 357.33717 359.48854 365.96253 369.827 372.5859 379.38859 385.51399 392.33659 395.0955 398.47193 404.58735 407.5853 414.0593 420.5333 423.2922 432.6546 439.48716 445.59263 452.42518 459.12828 465.60227 474.9746 481.5681 487.67359 491.05003 493.80894 497.63359 501.01 507.81269 510.94013 514.06759">Supported two Secretaries and three management staff </tspan></text>
+</g>
+<clipPath id="cp122">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp122)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-334.97" x="242.09 251.43248 257.9065 267.27885 274.1114 280.5854 283.58335 287.4478 290.20674 292.21867 298.32414 301.08305 307.9156 314.7382 324.11054 326.14237 332.24784 334.27967 338.14414 341.48075 344.4787 351.31126 354.68769 356.69963 362.32704 368.80104 371.55995 378.3925 384.8665 388.24293 390.25486 395.7727 397.80455 401.18098 403.1929 409.6669 413.53138 416.29029 419.0492 425.8718 432.35578 438.9493 444.94526 454.28773 460.76173 466.89707 470.2735 477.07618 480.4526 482.60398 489.08796 495.19343 497.95234 500.71125 507.5438 513.6493 520.47189 523.2308 530.08328 536.91586 540.2923 547.095">members in administrative activities, documentation, and data </tspan></text>
+</g>
+<clipPath id="cp123">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp123)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-322.73" x="242.09 251.43248 258.28498 264.39045 271.223 277.9261 284.4001 293.77244 300.24644 306.36186 309.73829">management.</tspan></text>
+</g>
+<clipPath id="cp124">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp124)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-322.73" x="312.65"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp125">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp125)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-310.37" x="227.45">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp126">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp126)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-310.37" x="232.01"> </tspan></text>
+</g>
+<clipPath id="cp127">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp127)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-310.37" x="242.09 249.4106 255.51609 259.38056 267.65733 274.13133 277.12928 283.70289 290.52549 293.2844 295.33616 301.44163 307.91563 314.3996 323.74208 325.79383 331.8993 338.6024 341.3613 348.21379 354.31925 360.91279 367.01826 373.49226 376.25117 382.72517 389.5577 391.58955 393.62138 397.48585 400.24476 407.04743 413.17283 419.99543 422.75434 426.13078 429.12873 435.96128 442.06675 445.9312 449.02879 455.50279 458.50074 461.4987 467.9727 474.81523 477.57414 481.05018 487.53416 490.29307 494.15754 497.49415 504.3267 507.45414 510.68119 513.4401 522.7826 529.2566 538.62899 545.46157 551.93557 555.05307 558.91757">Answered incoming phone calls and transferred to staff members </tspan></text>
+</g>
+<clipPath id="cp128">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp128)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-298.13" x="242.09 248.57396 251.57192 254.33084 261.1634 264.16136 270.64533 276.16319 278.195 285.0176 291.4916 298.3441 301.21257 304.2105 310.6845 317.52705 323.52299 330.1165 333.98097 337.31758 343.79158 350.61418 353.37309 355.42485 361.5303 364.75736 371.24134 374.2393 383.58177 390.43424 393.81068 395.8226 402.30659 408.41206">or provided requested information.</tspan></text>
+</g>
+<clipPath id="cp129">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp129)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-298.13" x="411.43"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp130">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp130)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-285.89" x="227.45">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp131">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp131)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-285.89" x="232.01"> </tspan></text>
+</g>
+<clipPath id="cp132">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp132)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-285.89" x="242.09 247.01024 253.4942 256.49217 259.9682 266.4422 273.2648 276.0237 282.8762 288.98167 295.80427 298.56318 305.41566 307.44749 311.31196 314.64857 317.6465 319.67835 326.5109 332.6164 335.99284 342.46684 349.28944 352.04835 358.64189 361.86894 364.99638 367.01826 373.49226 379.96626 382.72517 392.06764 398.9201 400.95195 402.98377 405.74269 412.57524 418.6807 425.5033 428.2622 431.26017 437.73417 444.2281 450.71208 453.71003 460.53263 467.00663 473.8591 476.618 478.64985 484.7553 491.2293 497.7133 507.05577 509.1075 515.213 521.9161">Sorted and distributed office mail and recorded incoming </tspan></text>
+</g>
+<clipPath id="cp133">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp133)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-273.65" x="242.09 245.95449 252.03009 254.08185 260.9144 270.25688 276.73088 282.8662 286.24266 290.0673 292.8262 295.95365 302.42765 305.4256 308.1845 314.77806 321.26203 324.25999 331.09254 337.5765 340.57447 347.52656 350.90299 357.37699 360.1359 363.23347 369.70747 376.18147 382.66545 385.6634 392.486 396.35047">shipments for corporate records.</tspan></text>
+</g>
+<clipPath id="cp134">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 217.01 271.49 L 580.08 271.49 L 580.08 357.28999 L 217.01 357.28999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp134)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-273.65" x="399.31"> </tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 580.08 246.41 L 580.2 246.41 L 580.2 367.25 L 580.08 367.25 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 230.57 L 580.07998 230.57 L 580.07998 246.41 L 32.04 246.41 Z " fill="#92ded4" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp135">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 230.57 L 580.07998 230.57 L 580.07998 246.41 L 32.04 246.41 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp135)">
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 230.57 L 580.07998 230.57 L 580.07998 246.41 L 32.04 246.41 Z " fill="#92ded4" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp136">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 230.57 L 580.07998 230.57 L 580.07998 246.41 L 32.04 246.41 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp136)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12.96" font-family="CenturyGothic" font-weight="bold"><tspan y="-233.45" x="42 49.192804 57.694566 61.764005 67.9848 74.335208">SKILLS</tspan></text>
+</g>
+<clipPath id="cp137">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 230.57 L 580.07998 230.57 L 580.07998 246.41 L 32.04 246.41 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp137)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-233.45" x="81.744"> </tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+</g>
+<clipPath id="cp138">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp138)">
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp139">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp139)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-210.14" x="42.36">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp140">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp140)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-210.14" x="46.92"> </tspan></text>
+</g>
+<clipPath id="cp141">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp141)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-210.14" x="54 59.51784 65.03568 67.7946 77.38608 83.282398 92.38584 95.25432 98.63076 104.00916 110.84172 112.87356 118.979038 125.68211 128.44104 132.30553 139.12813 145.60213 152.07613">65 WPM typing speed</tspan></text>
+</g>
+<clipPath id="cp142">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp142)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-210.14" x="159.02"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp143">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp143)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-197.9" x="42.36">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp144">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp144)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-197.9" x="46.92"> </tspan></text>
+</g>
+<clipPath id="cp145">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp145)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-197.9" x="54 62.14728 68.1432 77.26657 80.02549 89.36797 96.22045 102.32593 109.158489 115.861568 122.33556 131.70792 138.18192 144.29737">CRM management</tspan></text>
+</g>
+<clipPath id="cp146">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp146)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-197.9" x="147.86"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp147">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp147)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-185.66" x="42.36">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp148">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp148)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-185.66" x="46.92"> </tspan></text>
+</g>
+<clipPath id="cp149">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp149)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-185.66" x="54 62.63532 68.63124 70.66308 77.13708 82.16688 87.913799 94.50732 100.99128 106.02108 109.88556 112.64448 119.11848 123.89928 130.73184 137.20584 140.2038">QuickBooks expert</tspan></text>
+</g>
+<clipPath id="cp150">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp150)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-185.66" x="143.78"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp151">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp151)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-173.42" x="42.36">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp152">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp152)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-173.42" x="46.92"> </tspan></text>
+</g>
+<clipPath id="cp153">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp153)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-173.42" x="54 58.92024 65.39423 71.49971 77.97371 84.79631 90.82211 92.85395 99.32795 102.08687 108.919429 115.0249 121.8475 124.60642 131.09038 137.92293 139.95478 146.42877 152.54422 159.36682 166.20934 169.20729 172.07578 178.90834 180.94019 187.77274 193.87822 199.9837 202.01555 208.12104">Schedule and calendar planning</tspan></text>
+</g>
+<clipPath id="cp154">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.76 171.14 L 310.85 171.14 L 310.85 220.244 L 41.76 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp154)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-173.42" x="214.97"> </tspan></text>
+</g>
+</g>
+</g>
+<clipPath id="cp155">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp155)">
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp156">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp156)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-210.14" x="311.69">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp157">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp157)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-210.14" x="316.25"> </tspan></text>
+</g>
+<clipPath id="cp158">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp158)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-210.14" x="323.35 331.98533 338.57887 345.06285 351.76594 353.8177 360.2917 363.0506 367.25373 374.2058 378.07029 383.0702">Google Tasks</tspan></text>
+</g>
+<clipPath id="cp159">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp159)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-210.14" x="387.07"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp160">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp160)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-197.9" x="311.69">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp161">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp161)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-197.9" x="316.25"> </tspan></text>
+</g>
+<clipPath id="cp162">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp162)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-197.9" x="323.35 332.47337 334.5052 340.9792 343.97715 350.46113 354.41523 360.8992 364.02665 367.40309 370.25163 374.45475">Microsoft To</tspan></text>
+</g>
+<clipPath id="cp163">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp163)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-197.9" x="380.95">-</tspan></text>
+</g>
+<clipPath id="cp164">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp164)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-197.9" x="384.31 391.87025">Do</tspan></text>
+</g>
+<clipPath id="cp165">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp165)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-197.9" x="398.47"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp166">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp166)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-185.66" x="311.69">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp167">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp167)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-185.66" x="316.25"> </tspan></text>
+</g>
+<clipPath id="cp168">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp168)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-185.66" x="323.35 329.09693 335.5809 342.06489 347.09468 352.12446 358.59846 365.07246 371.91499 373.9468 380.05229">Bookkeeping</tspan></text>
+</g>
+<clipPath id="cp169">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp169)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-185.66" x="386.83"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp170">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp170)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-173.42" x="311.69">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp171">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp171)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-173.42" x="316.25"> </tspan></text>
+</g>
+<clipPath id="cp172">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp172)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-173.42" x="323.35 331.49729 337.98127 344.08674 347.21418 353.68818 356.68614 363.16014 369.27555 375.74955 382.22355 384.98246 391.815 393.84684 400.67939 406.78486 412.89033 414.92216 421.02763">Conference planning</tspan></text>
+</g>
+<clipPath id="cp173">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 311.33 171.14 L 579.83999 171.14 L 579.83999 220.244 L 311.33 220.244 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp173)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-173.42" x="427.75"> </tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 310.37 220.37 L 311.33 220.37 L 311.33 230.56999 L 310.37 230.56999 Z " fill="#fefdfd" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 310.37 145.94 L 311.33 145.94 L 311.33 220.36402 L 310.37 220.36402 Z " fill="#fefdfd" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 129.98 L 580.07998 129.98 L 580.07998 145.94 L 32.04 145.94 Z " fill="#92ded4" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp174">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 129.98 L 580.07998 129.98 L 580.07998 145.94 L 32.04 145.94 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp174)">
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 129.98 L 580.07998 129.98 L 580.07998 145.94 L 32.04 145.94 Z " fill="#92ded4" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp175">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 129.98 L 580.07998 129.98 L 580.07998 145.94 L 32.04 145.94 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp175)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12.96" font-family="CenturyGothic" font-weight="bold"><tspan y="-132.86" x="42 49.192804 58.7832 67.64784 78.19729 88.38385 94.25473 98.32417 109.83265">EDUCATION</tspan></text>
+</g>
+<clipPath id="cp176">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 129.98 L 580.07998 129.98 L 580.07998 145.94 L 32.04 145.94 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp176)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-132.86" x="120.14"> </tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 40.56 107.78 L 571.54 107.78 L 571.54 120.02 L 40.56 120.02 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp177">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp177)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic" font-weight="bold"><tspan y="-109.94" x="42 49.3206 53.7528 58.185 64.5594 70.9338 73.3242 79.897808 82.8858 89.2602 92.13864 98.51304 101.262 104.130489 109.309688 115.654209 118.04461 124.41901 130.52449 136.8989">Associate of Science</tspan></text>
+</g>
+<clipPath id="cp178">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp178)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-109.94" x="143.3 146.05893 148.92742 153.84766 160.44118 166.91518 169.91313 176.38713 179.76357 186.56624 189.5841 191.61595 198.4485 200.48035 203.23928 208.15952 211.53595 217.52191 224.34452 226.39627 232.87027 236.8244 239.58333 246.90393 253.00942 259.832 262.7204 271.37565 274.50309 277.60066 279.752 286.226 292.7 295.45893 302.7895 309.6121 318.98445 321.01628 327.12174 329.15357 333.01805 336.35466 339.3526 346.18516 349.56159 351.57353 358.0575">: Secretarial Studies And Office Administration</tspan></text>
+</g>
+<clipPath id="cp179">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp179)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-109.94" x="364.39"> </tspan></text>
+</g>
+<clipPath id="cp180">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp180)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-109.94" x="367.27"> </tspan></text>
+</g>
+<clipPath id="cp181">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp181)">
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 40.56 95.544 L 571.54 95.544 L 571.54 107.784 L 40.56 107.784 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp182">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp182)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-97.704" x="42 47.74692 54.22092 57.21888 62.25864 68.73264 70.76448 77.23848 82.6368 85.39572 93.543 100.02696 102.0588 104.09064 110.56464 117.267719 123.741718 126.52055 133.21367 135.9726 141.86891 148.71143 151.70938 158.54193 167.88442 173.90026 177.76474 180.52367 183.37224 190.69284">Berkeley College | Paramus, NJ</tspan></text>
+</g>
+<clipPath id="cp183">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp183)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-97.704" x="195.65"> </tspan></text>
+</g>
+<clipPath id="cp184">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp184)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-97.704" x="198.53"> </tspan></text>
+</g>
+<clipPath id="cp185">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp185)">
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 40.56 70.464 L 571.54 70.464 L 571.54 95.544 L 40.56 95.544 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp186">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp186)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-72.744" x="42"> </tspan></text>
+</g>
+<clipPath id="cp187">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp187)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-72.744" x="44.76"> </tspan></text>
+</g>
+<clipPath id="cp188">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp188)">
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 54.504 L 580.07998 54.504 L 580.07998 70.464008 L 32.04 70.464008 Z " fill="#92ded4" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp189">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 54.504 L 580.07998 54.504 L 580.07998 70.464008 L 32.04 70.464008 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp189)">
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 54.504 L 580.07998 54.504 L 580.07998 70.464008 L 32.04 70.464008 Z " fill="#92ded4" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp190">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 54.504 L 580.07998 54.504 L 580.07998 70.464008 L 32.04 70.464008 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp190)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12.96" font-family="CenturyGothic" font-weight="bold"><tspan y="-57.384" x="42 52.549444 59.742246 67.89409 73.76497 77.83441 84.66434 88.85042 99.399868 109.586429 115.457309 119.52675 131.03524 141.10515">CERTIFICATIONS</tspan></text>
+</g>
+<clipPath id="cp191">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 32.04 54.504 L 580.07998 54.504 L 580.07998 70.464008 L 32.04 70.464008 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp191)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-57.384" x="148.58"> </tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 41.04 32.28 L 571.54 32.28 L 571.54 44.544 L 41.04 44.544 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="Span">
+<clipPath id="cp192">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp192)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="SymbolMT"><tspan y="-34.32" x="42.48">&#x2022;</tspan></text>
+</g>
+<clipPath id="cp193">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp193)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="ArialMT"><tspan y="-34.32" x="47.04"> </tspan></text>
+</g>
+<clipPath id="cp194">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp194)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-34.32" x="54 62.14728 69.46789 75.364208">CAP </tspan></text>
+</g>
+<clipPath id="cp195">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp195)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-34.32" x="78.144">-</tspan></text>
+</g>
+<clipPath id="cp196">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp196)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-34.32" x="81.504"> </tspan></text>
+</g>
+<clipPath id="cp197">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp197)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-34.32" x="84.264 92.41128 98.88528 101.88324 105.25968 107.281558 110.409 112.43087 118.90487 125.72747 128.48639 135.8568 142.77899 152.12148 154.17324 160.27872 162.31056 166.17505 169.51165 172.5096 179.34215 182.71858 184.7305 190.24834 196.72234 199.48126 205.37758 208.37554 214.84954 218.07657 224.55057 228.41506 232.2397 234.39107 240.87503 246.98052 253.81307">Certified Administrative Professional</tspan></text>
+</g>
+<clipPath id="cp198">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp198)">
+<text fill="#5c5c5c" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="9.96" font-family="CenturyGothic"><tspan y="-34.32" x="256.01"> </tspan></text>
+</g>
+<clipPath id="cp199">
+<path transform="matrix(1,0,0,-1,0,792)" d="M .00000912 0 L 612 0 L 612 792 L .00000912 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp199)">
+</g>
+</g>
+</g>
+</g>
+</svg>
