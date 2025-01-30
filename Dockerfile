@@ -1,17 +1,14 @@
-# Use official Python image as base
+# Use the official Python image as the base
 FROM python:3.9
 
-# Set the working directory in the container
+# Set the working directory inside the container
 WORKDIR /app
-
-# Copy requirements file to the working directory
-COPY requirements.txt .
-
-# Install dependencies
-RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the entire project into the container
 COPY . .
+
+# Install required Python packages directly
+RUN pip install flask numpy pandas  # Add any other dependencies here
 
 # Expose the application port (modify if needed)
 EXPOSE 5000
