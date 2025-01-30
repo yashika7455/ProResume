@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: yashika-app
-          image: yashikaa1/yashu  # Change to your Docker image
+          image: yashikaa1/yashu:main  # Change to your Docker image
           ports:
             - containerPort: 5000  # Update based on your app
           
