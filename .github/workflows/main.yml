@@ -45,9 +45,6 @@ jobs:
         with:
           base64-kube-config: ${{ secrets.KUBE_CONFIG }}
 
-      - name: Check running pods
-        run: kubectl get pods
-
       - name: Deploy to Kubernetes
         run: |
           kubectl apply -f deployment.yaml
