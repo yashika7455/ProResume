@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: yashika-app
+spec:
+  replicas: 1  # Number of pods
+  selector:
+    matchLabels:
+      app: yashika-app
+  template:
+    metadata:
+      labels:
+        app: yashika-app
+    spec:
+      containers:
+        - name: yashika-app
+          image: yashikaa1/yashu  # Change to your Docker image
+          ports:
+            - containerPort: 5000  # Update based on your app
+          
