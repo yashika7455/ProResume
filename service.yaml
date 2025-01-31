@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: yashika-service
 spec:
-  type: LoadBalancer  # Use NodePort if on Minikube
+  type: NodePort  # Use NodePort if on Minikube
   selector:
     app: yashika-app
   ports:
