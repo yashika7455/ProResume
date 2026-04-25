@@ -1,20 +1,22 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: yashika-app
+  name: proresume-deployment
+  labels:
+    app: proresume
 spec:
-  replicas: 1  # Number of pods
+  replicas: 2
   selector:
     matchLabels:
-      app: yashika-app
+      app: proresume
   template:
     metadata:
       labels:
-        app: yashika-app
+        app: proresume
     spec:
       containers:
-        - name: yashika-app
-          image: yashikaa1/yashu:main  # Change to your Docker image
+        - name: proresume
+          image: yashikaa1/proresume:latest
+          imagePullPolicy: Always
           ports:
-            - containerPort: 5000  # Update based on your app
-          
+            - containerPort: 5000
